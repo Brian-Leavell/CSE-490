@@ -1,0 +1,11 @@
+[]  Make a dedicated HW module to increment the PC by 1 each time. No need to use the generic ALU.
+[]  Plan out overall datapath.
+[X]  Instruction Memory
+[X]  Data Memory
+[X]  Register File
+[X]  ALU
+[X]  Zero Extension
+[]  Control Unit(s)
+[X]  Multiplexer(s)
+[X]  Program Counter
+[X]  Decoder
