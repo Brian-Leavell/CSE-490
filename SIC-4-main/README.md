@@ -15,5 +15,3 @@ To then run the tests, change directory into **tests** directory (`cd tests`) an
 1. Import the design files
 2. Generate bitstream
 3. Upload to FPGA
-4. ???
-5. Profit!
